@@ -21,7 +21,7 @@ sections:
       background_color: blue
       background_image: images/facebook-cover-new@2x.png
       background_image_opacity: 20
-      background_image_size: auto
+      background_image_size: contain
       background_image_repeat: repeat
   - type: features_section
     title: Features
